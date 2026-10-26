@@ -1,0 +1,651 @@
+﻿{
+ "axe": {
+  "01 seing": [],
+  "02 atlas": [],
+  "03 cite": [],
+  "04 chroniques": [],
+  "05 voix": [],
+  "06 or-vert": [],
+  "07 kodu": []
+ },
+ "visuel": {
+  "01 seing": {
+   "faible": [],
+   "longueurLigne": null,
+   "cibles": [],
+   "tracking": [
+    {
+     "el": "hero__surnom: Département du Niari · Sud",
+     "ratio": 0.3
+    },
+    {
+     "el": "SPAN: Défiler",
+     "ratio": 0.26
+    }
+   ],
+   "minuscule": []
+  },
+  "02 atlas": {
+   "faible": [],
+   "longueurLigne": "28 ch",
+   "cibles": [
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "rect",
+     "w": 20,
+     "h": 20
+    },
+    {
+     "el": "rect",
+     "w": 20,
+     "h": 20
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    },
+    {
+     "el": "circle",
+     "w": 16,
+     "h": 16
+    }
+   ],
+   "tracking": [
+    {
+     "el": "carte__titre: Carte schématique — sans é",
+     "ratio": 0.24
+    },
+    {
+     "el": "mention: Chap. 02 — Atlas",
+     "ratio": 0.22
+    }
+   ],
+   "minuscule": [
+    {
+     "el": "text: République du Gabon — fron",
+     "fs": 1.15
+    },
+    {
+     "el": "text: OUEST",
+     "fs": 1.15
+    },
+    {
+     "el": "text: Nyanga",
+     "fs": 1.25
+    },
+    {
+     "el": "text: SUD",
+     "fs": 1.15
+    },
+    {
+     "el": "text: Kibangou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: EST",
+     "fs": 1.15
+    },
+    {
+     "el": "text: Moungoundou-sud",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Dimani",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Nzambi Kalla",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Kamba",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Dikoukou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Nzanza",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Nyanga – Paysannat",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Dounguila",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Souangui 1",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mila Mila",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Souangui 2",
+     "fs": 1.25
+    },
+    {
+     "el": "text: NYANGA – PAYSANNAT",
+     "fs": 1.4
+    },
+    {
+     "el": "text: Dibola",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Lemboumbou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moudouma",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mouloundou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moupitou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Iloumboussiaweka",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Ngongo Village",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moutsengany",
+     "fs": 1.25
+    },
+    {
+     "el": "text: MOUPITOU",
+     "fs": 1.4
+    },
+    {
+     "el": "text: Vanga",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Biloungou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Doubila",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Itabi",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Issiengui",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Inguebi",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mouyingou Bengo",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moukondo",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mollo",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moussamou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moubiya",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mateba",
+     "fs": 1.25
+    },
+    {
+     "el": "text: MOUKONDO",
+     "fs": 1.4
+    },
+    {
+     "el": "text: Bouali",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Ingueli",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moufoubou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Divenié Village",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Pemo-Kb",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mouhala",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Mambouana",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moungoutou",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Moudounga",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Kouyi",
+     "fs": 1.25
+    },
+    {
+     "el": "text: KOUYI",
+     "fs": 1.4
+    },
+    {
+     "el": "text: Carrefour",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Bitimba",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Ignounga",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Midouma",
+     "fs": 1.25
+    },
+    {
+     "el": "text: Kalla",
+     "fs": 1.25
+    },
+    {
+     "el": "text: KALLA",
+     "fs": 1.4
+    },
+    {
+     "el": "text: DIVENIÉ",
+     "fs": 1.3
+    },
+    {
+     "el": "text: cité · 7 quartiers",
+     "fs": 1
+    }
+   ]
+  },
+  "03 cite": {
+   "faible": [],
+   "longueurLigne": "0 ch",
+   "cibles": [],
+   "tracking": [
+    {
+     "el": "mention: Chap. 03 — Cité",
+     "ratio": 0.22
+    }
+   ],
+   "minuscule": [
+    {
+     "el": "text: AUTOCHTONE",
+     "fs": 7.5
+    }
+   ]
+  },
+  "04 chroniques": {
+   "faible": [],
+   "longueurLigne": "0 ch",
+   "cibles": [],
+   "tracking": [
+    {
+     "el": "mention: Chap. 04 — Chroniques",
+     "ratio": 0.22
+    }
+   ],
+   "minuscule": []
+  },
+  "05 voix": {
+   "faible": [],
+   "longueurLigne": "0 ch",
+   "cibles": [],
+   "tracking": [
+    {
+     "el": "elus__bloc-titre: Députés — de l’AEF à nos j",
+     "ratio": 0.26
+    },
+    {
+     "el": "elus__bloc-titre: Maires",
+     "ratio": 0.26
+    },
+    {
+     "el": "mention: Chap. 05 — Voix",
+     "ratio": 0.22
+    }
+   ],
+   "minuscule": []
+  },
+  "06 or-vert": {
+   "faible": [],
+   "longueurLigne": "0 ch",
+   "cibles": [],
+   "tracking": [
+    {
+     "el": "mention: Chap. 06 — Or vert",
+     "ratio": 0.22
+    }
+   ],
+   "minuscule": []
+  },
+  "07 kodu": {
+   "faible": [],
+   "longueurLigne": "0 ch",
+   "cibles": [],
+   "tracking": [
+    {
+     "el": "mention: Chap. 07 — Kodu maghasi",
+     "ratio": 0.22
+    }
+   ],
+   "minuscule": []
+  }
+ },
+ "perf": {
+  "01 seing": {
+   "ressources": 5,
+   "octets": "92 Ko",
+   "policesOK": false,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  },
+  "02 atlas": {
+   "ressources": 6,
+   "octets": "92 Ko",
+   "policesOK": true,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  },
+  "03 cite": {
+   "ressources": 7,
+   "octets": "92 Ko",
+   "policesOK": true,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  },
+  "04 chroniques": {
+   "ressources": 8,
+   "octets": "92 Ko",
+   "policesOK": true,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  },
+  "05 voix": {
+   "ressources": 9,
+   "octets": "92 Ko",
+   "policesOK": true,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  },
+  "06 or-vert": {
+   "ressources": 10,
+   "octets": "92 Ko",
+   "policesOK": true,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  },
+  "07 kodu": {
+   "ressources": 11,
+   "octets": "92 Ko",
+   "policesOK": true,
+   "overflowDoc": 0,
+   "overflowInterne": 0
+  }
+ },
+ "interactions": [
+  "fiche village: true | Dimani",
+  "filtre axes inactifs: 4",
+  "fiche hameau: Moubiya",
+  "cible tactile village: 27x27",
+  "vue durées: true | 46 lignes",
+  "filtre religieux visibles: 11",
+  "clavier → #/or-vert",
+  "mode sobre: true"
+ ],
+ "mobile": [
+  "seing: {\"overflowDoc\":0,\"overflowInterne\":0,\"titreFS\":\"66.3px\"}",
+  "atlas: {\"overflowDoc\":0,\"overflowInterne\":0,\"titreFS\":\"66.3px\"}",
+  "chroniques: {\"overflowDoc\":0,\"overflowInterne\":0,\"titreFS\":\"66.3px\"}",
+  "voix: {\"overflowDoc\":0,\"overflowInterne\":0,\"titreFS\":\"66.3px\"}",
+  "kodu: {\"overflowDoc\":0,\"overflowInterne\":0,\"titreFS\":\"66.3px\"}"
+ ],
+ "console": [],
+ "pageerrors": []
+}

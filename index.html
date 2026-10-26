@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>District de Divenié — Terre Bénie · Niari, Congo</title>
+  <meta name="description" content="Site dynamique du District de Divenié, département du Niari, République du Congo : géographie, axes et villages, chronique des administrateurs depuis 1934, élus, desservants, histoire forestière et marchands.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23101612'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23c9962f' text-anchor='middle'%3ED%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+  <div class="grain" aria-hidden="true"></div>
+
+  <div class="progression" aria-hidden="true"><div class="progression__jauge" id="jauge"></div></div>
+
+  <header class="topbar">
+    <a class="topbar__marque" href="#/seing">Divenié <em>· Terre Bénie</em></a>
+    <div class="topbar__droite">
+      <span class="topbar__page"><b id="pageNum">01</b>&nbsp;/&nbsp;07</span>
+      <button class="bascule" id="basculeMotion" aria-pressed="false" title="Réduire les animations"><span>Animé</span></button>
+    </div>
+  </header>
+
+  <nav class="rail" id="rail" aria-label="Chapitres"></nav>
+
+  <main class="pages" id="pages">
+
+    <!-- ============================ 01 · SEING ======================== -->
+    <section class="page page--sombre" id="page-seing" data-page="seing" aria-label="Chapitre 1 — Seing">
+      <div class="page__defile" id="defile-seing" tabindex="0" role="region" aria-label="Chapitre 01 — Seing">
+
+        <div class="hero">
+          <div class="hero__ciel" aria-hidden="true">
+            <div class="hero__calque" data-prof="0.02">
+              <svg viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+                <defs>
+                  <radialGradient id="soleilDegen" cx="50%" cy="50%" r="50%">
+                    <stop offset="0%" stop-color="#f0c368"/>
+                    <stop offset="55%" stop-color="#c9962f"/>
+                    <stop offset="100%" stop-color="#c9962f" stop-opacity="0"/>
+                  </radialGradient>
+                  <linearGradient id="brumeDegen" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="#f2ede2" stop-opacity="0"/>
+                    <stop offset="50%" stop-color="#f2ede2" stop-opacity="0.16"/>
+                    <stop offset="100%" stop-color="#f2ede2" stop-opacity="0"/>
+                  </linearGradient>
+                </defs>
+                <circle class="hero__soleil" cx="1120" cy="195" r="200" fill="url(#soleilDegen)"/>
+                <circle cx="1120" cy="195" r="62" fill="#e8bd63"/>
+                <g stroke="#f2ede2" stroke-opacity="0.5" stroke-width="2" fill="none">
+                  <path d="M420 150 q30 -14 60 0 q30 -14 60 0"/>
+                  <path d="M540 205 q22 -10 44 0 q22 -10 44 0"/>
+                </g>
+              </svg>
+            </div>
+
+            <div class="hero__calque" data-prof="0.09">
+              <svg viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+                <ellipse class="hero__brume" cx="720" cy="480" rx="1500" ry="46" fill="url(#brumeDegen)"/>
+                <path d="M0,486 C220,452 380,478 610,458 C860,436 1120,470 1440,442 L1440,900 L0,900 Z" fill="#17362a" opacity="0.92"/>
+              </svg>
+            </div>
+
+            <div class="hero__calque" data-prof="0.2">
+              <svg viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+                <ellipse class="hero__brume hero__brume--2" cx="700" cy="560" rx="1500" ry="34" fill="url(#brumeDegen)"/>
+                <g fill="#102a20">
+                  <g transform="translate(120 520) scale(1.15)"><rect x="-6" y="0" width="12" height="150"/><ellipse cx="0" cy="-14" rx="62" ry="42"/><ellipse cx="-46" cy="16" rx="38" ry="26"/><ellipse cx="46" cy="18" rx="40" ry="26"/></g>
+                  <g transform="translate(400 546) scale(0.95)"><rect x="-5" y="0" width="10" height="130"/><ellipse cx="0" cy="-12" rx="54" ry="36"/><ellipse cx="-40" cy="14" rx="32" ry="22"/></g>
+                  <g transform="translate(980 528) scale(1.05)"><rect x="-6" y="0" width="12" height="140"/><ellipse cx="0" cy="-14" rx="58" ry="40"/><ellipse cx="44" cy="12" rx="34" ry="24"/></g>
+                  <g transform="translate(1300 552) scale(0.9)"><rect x="-5" y="0" width="10" height="120"/><ellipse cx="0" cy="-12" rx="52" ry="34"/></g>
+                </g>
+              </svg>
+            </div>
+
+            <div class="hero__calque" data-prof="0.4">
+              <svg viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+                <path d="M0,900 L0,700 C180,660 300,720 460,700 C620,680 760,720 900,706 C1060,690 1220,730 1440,690 L1440,900 Z" fill="#0b1a13"/>
+                <g fill="#0b1a13">
+                  <g transform="translate(250 690) scale(1.5)"><rect x="-8" y="0" width="16" height="220"/><ellipse cx="0" cy="-20" rx="80" ry="54"/><ellipse cx="-58" cy="20" rx="48" ry="32"/><ellipse cx="58" cy="22" rx="50" ry="32"/></g>
+                  <g transform="translate(1080 700) scale(1.35)"><rect x="-7" y="0" width="14" height="210"/><ellipse cx="0" cy="-18" rx="72" ry="48"/><ellipse cx="52" cy="18" rx="42" ry="28"/></g>
+                </g>
+                <path d="M700,900 C700,830 690,806 706,772 C716,750 700,738 704,716" stroke="#c9962f" stroke-opacity="0.5" stroke-width="3" fill="none" stroke-dasharray="1 0"/>
+              </svg>
+            </div>
+          </div>
+
+          <div class="hero__tenu">
+            <p class="hero__surnom">Département du Niari · Sud-Ouest</p>
+            <h1 class="hero__titre">Divénié<span class="l2">Terre Bénie</span></h1>
+            <div class="hero__ligne">
+              <span class="depart">La terre que l'on ne quitte pas tout à fait.</span>
+              <span class="pays">République du Congo</span>
+            </div>
+          </div>
+
+          <div class="hero__passe" aria-hidden="true"><span>Défiler</span></div>
+
+          <div class="bandeau-stats" id="bandeauStats" aria-label="Chiffres du district"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ====================== 02..07 · rendus par app.js ================ -->
+    <section class="page page--clair" id="page-atlas" data-page="atlas" aria-label="Chapitre 2 — Atlas"></section>
+    <section class="page page--clair" id="page-cite" data-page="cite" aria-label="Chapitre 3 — Cité"></section>
+    <section class="page page--sombre" id="page-chroniques" data-page="chroniques" aria-label="Chapitre 4 — Chroniques"></section>
+    <section class="page page--clair" id="page-voix" data-page="voix" aria-label="Chapitre 5 — Voix"></section>
+    <section class="page page--foret" id="page-or-vert" data-page="or-vert" aria-label="Chapitre 6 — Or vert"></section>
+    <section class="page page--clair" id="page-kodu" data-page="kodu" aria-label="Chapitre 7 — Kodu maghasi"></section>
+
+  </main>
+
+  <footer class="pied" id="pied"></footer>
+
+  <noscript>
+    <p style="padding:2rem;font-family:monospace">Ce site est dynamique : activez JavaScript pour parcourir les chapitres du District de Divenié.</p>
+  </noscript>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
